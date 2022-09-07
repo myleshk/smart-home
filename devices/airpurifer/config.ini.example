@@ -1,0 +1,4 @@
+[DEFAULT]
+ip=192.168.1.2
+token=abcdefg12345
+maxRetry=3
