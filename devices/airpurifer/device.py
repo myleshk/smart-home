@@ -23,3 +23,9 @@ class Device:
         })
 
         return status
+
+    def on(self):
+        self.device.on()
+
+    def off(self):
+        self.device.off()
